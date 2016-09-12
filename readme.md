@@ -17,3 +17,8 @@ do first submit, score = 0.96,rank= 1428
 * try feature selection
 
 「以上」
+
+### 2016-09-12
+
+* feature selection/engineering is much more powerful than using an ensemble algorithm
+* score imporved to 0.987, rank = 885
